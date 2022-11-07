@@ -1,0 +1,10 @@
+.sectionskills {
+    background-color: black;
+    height: 740px;
+    left: -1px;
+    top: 887px;
+    border-bottom: 10px solid #4C5B84;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
