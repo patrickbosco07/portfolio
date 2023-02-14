@@ -49,29 +49,3 @@ nav {
     line-height: 40px;
     text-shadow: 4px 4px 0px #000000;
 }
-.botão2 {
-    position: absolute;
-    width: 170px;
-    height: 60px;
-    left: 181px;
-    top: 418px;
-    font-family: 'Fira Code';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    box-shadow: 5px 5px #000000;
-}
-.botão3 {
-    position: absolute;
-    width: 170px;
-    height: 60px;
-    left: 463px;
-    top: 418px;
-    font-family: 'Fira Code';
-    font-style: normal;
-    font-weight: 500;
-    font-size: 20px;
-    line-height: 30px;
-    box-shadow: 5px 5px #000000;
-}

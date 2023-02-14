@@ -1,4 +1,4 @@
-a::before {
+.beforelinksheader::before {
     content: "";
     background-color: #4C5B84;
     width: 10px;
